@@ -5,7 +5,7 @@ int main() {
 	int balance = 12345,withdrawAmount,depositeAmount;
 	char userInput;
 	bool entrance = true;
-	printf("------Prashant Bank and Co.------\n\n");
+	printf("------Pravesh Bank and Co.------\n\n");
 	while(entrance) {
 		printf("\n");
 		printf("current balnce: %d\n",balance);
